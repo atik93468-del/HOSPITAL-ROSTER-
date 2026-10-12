@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473088133107",
+    "project_id": "hospital-roster-e36c7",
+    "storage_bucket": "hospital-roster-e36c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473088133107:android:017db79b521eea54e7b486",
+        "android_client_info": {
+          "package_name": "com.hospital.dutyroster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSxPyC2rbWBUQjtBY_XYFBMo-p_gCBJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
